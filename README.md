@@ -24,9 +24,9 @@ Me apasiona construir automatizaciones siguiendo las mejores prácticas de la do
 
 ---
 
-## ⚙️ Mi Setup VSC
+## ⚙️ Mi Setup de VSC
 
-**[settings.json](https://gist.github.com/RobinsonRojas/c61629c792a07ae87f55b3679ac6caee)** 
+- 📌 [settings.json](https://gist.github.com/RobinsonRojas/c61629c792a07ae87f55b3679ac6caee)
 
 ---
 

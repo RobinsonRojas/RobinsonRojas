@@ -1,8 +1,8 @@
 # Hola, soy Robinson Rojas 👋
 
-**QA Automation Lead** con +5 años de experiencia automatizando pruebas y liderando equipos de calidad de software.
+**QA Automation Lead** con +5 años de experiencia en calidad de software.
 
-Me apasiona construir frameworks de automatización robustos, integrar pipelines de CI/CD y explorar nuevas formas de hacer QA más inteligente con IA.
+Me apasiona construir automatizaciones siguiendo las mejores prácticas de la documentación oficial de cada herramienta, como integrarlas en pipelines de CI/CD y explorar nuevas formas de hacer QA más ágil con IA.
 
 ---
 
@@ -18,44 +18,23 @@ Me apasiona construir frameworks de automatización robustos, integrar pipelines
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### CI/CD & Herramientas
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white)
-
-### IA & Productividad
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP_Servers-4A154B?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI_Agents-FF6F00?style=for-the-badge)
-![Skills](https://img.shields.io/badge/Copilot_Skills-2088FF?style=for-the-badge)
-
 ---
 
 ## 🚀 Lo que hago
 
-- 🎯 Diseño e implemento estrategias de automatización E2E, API y mobile
-- 🏗️ Construyo frameworks escalables con Page Object Model y patrones modernos
+- 🎯 Desarrollo automatizaciónes E2E, API y mobile
 - ⚡ Integro pruebas en pipelines de Azure DevOps para CI/CD
-- 🤖 Desarrollo agentes de IA y MCP servers para potenciar flujos de QA
-- 📊 Pruebas de rendimiento con JMeter y análisis de resultados
-- 👥 Lidero equipos de QA promoviendo buenas prácticas y mejora continua
+- 🤖 Desarrollo agentes de IA integrando MCP y skills para potenciar flujos de QA
+- 👥 Capacito equipos de QA en automatizacion y IA aplicada al testing promoviendo buenas prácticas
 
 ---
 
-## ⚙️ Mi Setup
+## ⚙️ Mi Setup VSC
 
-Comparto mi configuración de VS Code con la comunidad. Si quieres un editor optimizado para QA Automation, dale un vistazo:
-
-> 🔗 **[Mi settings.json de VS Code](https://gist.github.com/RobinsonRojas/c61629c792a07ae87f55b3679ac6caee)** — Tema oscuro personalizado, Prettier, Playwright, Copilot y más.
-
----
-
-## 📫 Conectemos
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robinson-rojas/)
+> 🔗 **[Mi settings.json de VS Code](https://gist.github.com/RobinsonRojas/c61629c792a07ae87f55b3679ac6caee)** 
 
 ---
 
 <p align="center">
-  <i>«La automatización no reemplaza al tester, lo potencia.»</i>
+  <i>«La calidad del software no es evaluar únicamente el cumplimiento de los CA, sino también la capacidad de detectar oportunidades de mejora»</i>
 </p>

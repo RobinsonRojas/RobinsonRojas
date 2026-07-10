@@ -24,14 +24,14 @@ Me apasiona construir automatizaciones siguiendo las mejores prácticas de la do
 
 - 🎯 Desarrollo automatizaciónes E2E, API y mobile
 - ⚡ Integro pruebas en pipelines de Azure DevOps para CI/CD
-- 🤖 Desarrollo agentes de IA integrando MCP y skills para potenciar flujos de QA
+- 🤖 Desarrollo agentes de IA integrando MCP y Skills para potenciar flujos de QA
 - 👥 Capacito equipos de QA en automatizacion y IA aplicada al testing promoviendo buenas prácticas
 
 ---
 
 ## ⚙️ Mi Setup VSC
 
-> 🔗 **[Mi settings.json de VS Code](https://gist.github.com/RobinsonRojas/c61629c792a07ae87f55b3679ac6caee)** 
+> 🔗 **[settings.json](https://gist.github.com/RobinsonRojas/c61629c792a07ae87f55b3679ac6caee)** 
 
 ---
 

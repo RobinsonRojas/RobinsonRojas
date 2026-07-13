@@ -29,7 +29,7 @@ Me apasiona construir automatizaciones siguiendo las mejores prácticas de la do
 
 ## ⚙️ Mi Setup de VSC
 
-- 📌 [settings.json](https://gist.github.com/RobinsonRojas/c61629c792a07ae87f55b3679ac6caee)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="settings.json de VS Code" height="40">](https://gist.github.com/RobinsonRojas/c61629c792a07ae87f55b3679ac6caee)
 
 ---
 

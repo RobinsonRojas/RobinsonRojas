@@ -8,10 +8,13 @@ Me apasiona construir automatizaciones siguiendo las mejores prácticas de la do
 
 ## 🛠️ Stack Técnico
 
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC44NiA3LjYxYy0xLjY3LjMtNC42Ny42Ni05LjYxLS42MkM2LjMgNS42MyAzLjAyIDMuMyAxLjcyIDIuMjIuNzYuODMuMTgtLjA1LS42MiAxLjY3Yy0uNyAxLjQzLTEuNiAzLjc2LTIuNDggNy4wMkMtNC41NyAxNC40NC01LjY5IDIxLjM1Ljk2IDI0LjQ4YzguODcgMy4xMiAxMy41Ni03LjY1IDE1LjA2LTEyLjQyLjg3LTMuMjUgMS4yNC01LjcyIDEuMzQtNy4zLjEyLTEuOC0uOTEtMS4yOC0zLjI4LS44M3pNNi4xNSAxMS4wOXMxLjg0LTIuODcgNS0xLjk3YzMuMTQuODkgMy4zOCA0LjM0IDMuMzggNC4zNGwtOC4zOC0yLjM3em03LjY2IDEyLjg5Yy01LjUyLTEuNjItNi4zNy03LjEzLTYuMzctNy4xM2wxNC44NCA0LjE0cy0yLjk5IDQuNjItOC40NyAzem01LjIzLTguNzVzMS44NC0yLjg3IDQuOTktMS45NmMzLjE0Ljg5IDMuMzggNC4zNCAzLjM4IDQuMzRsLTguMzctMi4zOHoiLz48L3N2Zz4%3D&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Appium](https://img.shields.io/badge/Appium-663399?style=for-the-badge&logo=appium&logoColor=white)
-![NightwatchJS](https://img.shields.io/badge/Nightwatch.js-E24E2E?style=for-the-badge&logo=nightwatchjs&logoColor=white)
+| Tecnología                                                                                                                                    | Repositorio                                                           | Sitio web                                    |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | -------------------------------------------- |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" alt="Cypress" height="40">                     | [cypress-io/cypress](https://github.com/cypress-io/cypress)           | [cypress.io](https://www.cypress.io)         |
+| <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" height="40">                                                       | [microsoft/playwright](https://github.com/microsoft/playwright)       | [playwright.dev](https://playwright.dev)     |
+| <img src="https://raw.githubusercontent.com/nightwatchjs/nightwatch/main/.github/assets/nightwatch-logo.png" alt="Nightwatch.js" height="40"> | [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) | [nightwatchjs.org](https://nightwatchjs.org) |
+| <img src="https://appium.io/docs/en/latest/assets/images/appium-logo.png" alt="Appium" height="40">                                           | [appium/appium](https://github.com/appium/appium)                     | [appium.io](https://appium.io)               |
+| <img src="https://webdriver.io/img/webdriverio.png" alt="WebdriverIO" height="40">                                                            | [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) | [webdriver.io](https://webdriver.io)         |
 
 ---
 

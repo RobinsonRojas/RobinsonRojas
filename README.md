@@ -12,9 +12,9 @@ Me apasiona construir automatizaciones siguiendo las mejores prácticas de la do
 | --------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | -------------------------------------------- |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" alt="Cypress" height="40">                     | [cypress-io/cypress](https://github.com/cypress-io/cypress)           | [cypress.io](https://www.cypress.io)         |
 | <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" height="40">                                                       | [microsoft/playwright](https://github.com/microsoft/playwright)       | [playwright.dev](https://playwright.dev)     |
-| <img src="https://raw.githubusercontent.com/nightwatchjs/nightwatch/main/.github/assets/nightwatch-logo.png" alt="Nightwatch.js" height="40"> | [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) | [nightwatchjs.org](https://nightwatchjs.org) |
 | <img src="https://appium.io/docs/en/latest/assets/images/appium-logo.png" alt="Appium" height="40">                                           | [appium/appium](https://github.com/appium/appium)                     | [appium.io](https://appium.io)               |
 | <img src="https://webdriver.io/img/webdriverio.png" alt="WebdriverIO" height="40">                                                            | [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) | [webdriver.io](https://webdriver.io)         |
+| <img src="https://raw.githubusercontent.com/nightwatchjs/nightwatch/main/.github/assets/nightwatch-logo.png" alt="Nightwatch.js" height="40"> | [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) | [nightwatchjs.org](https://nightwatchjs.org) |
 
 ---
 

@@ -1,8 +1,13 @@
 # Hola, soy Robinson Rojas 👋
 
-**QA Automation Lead** con +5 años de experiencia en calidad de software.
+**QA AI Automation Lead** en SoftwareOne.
 
-Me apasiona construir automatizaciones siguiendo las mejores prácticas de la documentación oficial de cada herramienta, como integrarlas en pipelines de CI/CD y explorar nuevas formas de hacer QA más ágil con IA.
+Me apasiona construir automatizaciones E2E siguiendo las mejores prácticas de la documentación oficial de cada herramienta e integrarlas en pipelines de CI/CD y explorar nuevas formas de hacer QA más ágil con IA.
+
+- 🤖 Desarrollo automatizaciones web E2E, API y mobile.
+- 🚀 Integro pruebas en pipelines CI/CD.
+- ✨ Desarrollo agentes de IA integrando MCP y Skills para potenciar equipos de QA.
+- 👥 Capacito equipos de QA en automatización y IA aplicada a testing promoviendo buenas prácticas.
 
 ---
 
@@ -27,15 +32,6 @@ Me apasiona construir automatizaciones siguiendo las mejores prácticas de la do
 
 ---
 
-## 👨‍💻 Lo que hago
-
-- 🤖 Desarrollo automatizaciones E2E, API y mobile
-- 🚀 Integro pruebas en pipelines de Azure DevOps para CI/CD
-- ✨ Desarrollo agentes de IA integrando MCP y Skills para potenciar flujos de QA
-- 👥 Capacito equipos de QA en automatización y IA aplicada al testing promoviendo buenas prácticas
-
----
-
 ## ⚙️ Mi Setup de VSC
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="settings.json de VS Code" height="40">](https://gist.github.com/RobinsonRojas/c61629c792a07ae87f55b3679ac6caee)
@@ -43,5 +39,5 @@ Me apasiona construir automatizaciones siguiendo las mejores prácticas de la do
 ---
 
 <p align="center">
-  <i>«La calidad del software no es evaluar únicamente el cumplimiento de los CA, sino también la capacidad de detectar oportunidades de mejora»</i>
+  <i>«Validar es el punto de partida; cuestionar y mejorar el producto es el verdadero trabajo del QA.»</i>
 </p>

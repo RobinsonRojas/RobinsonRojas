@@ -23,7 +23,7 @@ Me apasiona construir automatizaciones E2E siguiendo las mejores prácticas de l
 
 ## 🛠️ Automation templates
 
-|                                                                                           Tecnología                                                                                            |                                   Template                                    |                    Descripcion                    |
+|                                                                                           Tecnología                                                                                            |                                   Template                                    |                    Descripción                    |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :-----------------------------------------------: |
 | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" title="CypressIO" alt="CypressIO" width="40" height="40">](https://www.cypress.io) |     [cypress-template](https://github.com/RobinsonRojas/cypress-template)     | Template for Cypress E2E projects with TypeScript |
 |                                        [<img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" height="40">](https://playwright.dev)                                        |  [playwright-template](https://github.com/RobinsonRojas/playwright-template)  |                                                   |

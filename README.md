@@ -2,12 +2,12 @@
 
 **QA AI Automation Lead** en SoftwareOne.
 
-Me apasiona construir automatizaciones E2E siguiendo las mejores prácticas de la documentación oficial de cada herramienta e integrarlas en pipelines de CI/CD y explorar nuevas formas de hacer QA más ágil con IA.
+Me apasiona construir automatizaciones E2E siguiendo las mejores prácticas recomendadas en la documentación oficial de cada herramienta, integrarlas en pipelines de CI/CD y explorar nuevas formas de hacer el QA más ágil y profesional mediante el uso de inteligencia artificial.
 
-- 🤖 Desarrollo automatizaciones web E2E, API y mobile.
-- 🚀 Integro pruebas en pipelines CI/CD.
-- ✨ Desarrollo agentes de IA integrando MCP y Skills para potenciar equipos de QA.
-- 👥 Capacito equipos de QA en automatización y IA aplicada a testing promoviendo buenas prácticas.
+- 🤖 Desarrollo automatizaciones E2E para aplicaciones web, APIs y dispositivos móviles.
+- 🚀 Integro pruebas automatizadas en pipelines de CI/CD.
+- ✨ Desarrollo agentes de IA mediante la integración de MCP y Skills para potenciar la productividad de los equipos de QA.
+- 👥 Capacito equipos de QA en automatización e inteligencia artificial aplicada al testing, promoviendo la adopción de buenas prácticas.
 
 ---
 

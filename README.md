@@ -8,7 +8,8 @@ Me apasiona construir automatizaciones E2E siguiendo las mejores prácticas reco
 - 🚀 Integro pruebas automatizadas en pipelines de CI/CD.
 - ✨ Desarrollo agentes de IA mediante la integración de MCP y Skills para potenciar la productividad de los equipos de QA.
 - 👥 Capacito equipos de QA en automatización e inteligencia artificial aplicada al testing, promoviendo la adopción de buenas prácticas.
-
+- 👨‍🏫 Demos de preventa para la fábrica de pruebas.
+  
 ---
 
 ## 🐞 Testing and Dev Tools 🛠️
